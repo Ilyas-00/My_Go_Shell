@@ -13,4 +13,4 @@ GoShell is a simple and lightweight shell written in Go that allows you to execu
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/GoShell.git
+   https://github.com/Ilyas-00/My_Go_Shell.git
