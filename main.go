@@ -11,7 +11,6 @@ import (
 func main() {
     reader := bufio.NewReader(os.Stdin)
     for {
-        // Obtenez le répertoire de travail actuel
         currentDir, err := os.Getwd()
         if err != nil {
             fmt.Fprintln(os.Stderr, err)
