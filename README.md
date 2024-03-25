@@ -1,3 +1,4 @@
+
  # GoShell 🚀
 
 GoShell is a simple and lightweight shell written in Go that allows you to execute system commands and manage your workspace. It provides an interactive command-line interface for easy navigation and execution of commands. 💻
